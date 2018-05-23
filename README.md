@@ -150,9 +150,9 @@ install: pip install tox-travis
 script: tox -e pytest
 ``` 
 - Luego de que se ejecute ese archivo, obtenemos lo siguiente:  
-![](Imagenes/travis.png)  
-
-![](Imagenes/travis_2.png)  
-
-![](Imagenes/travis_3.png)  
-
+![](ImagenesParcial3/travis.PNG)
+![](ImagenesParcial3/travis1.PNG)  
+![](ImagenesParcial3/travis2.PNG)  
+![](ImagenesParcial3/travis3.PNG)  
+![](ImagenesParcial3/travis4.PNG)  
+![](ImagenesParcial3/travis5.PNG)  
